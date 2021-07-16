@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Frouze Box Plugin
  * Plugin URI:        https://www.frouzebox.ch/fr/
- * Description:       Plugin to create React Form to create user and subscriptions
+ * Description:       Wordpress Plugin user registration form + WooCommerce suscriptions. Develop in ReactJs
  * Version:           1.0.0
  * Author:            Matur
  * Author URI:        https://maturocha.com.ar
